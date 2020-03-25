@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "sstream": "c",
+        "string.h": "c"
+    }
+}
